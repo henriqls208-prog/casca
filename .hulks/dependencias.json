@@ -1,0 +1,43 @@
+{
+  "function.py": {
+    "linguagem": "python",
+    "linhas": 63,
+    "classes": [],
+    "funcoes": [],
+    "imports_locais": [],
+    "imports_externos": [],
+    "erro_sintaxe": "SyntaxError L3: invalid syntax"
+  },
+  "main.py": {
+    "linguagem": "python",
+    "linhas": 48,
+    "classes": [],
+    "funcoes": [],
+    "imports_locais": [
+      "function"
+    ],
+    "imports_externos": [
+      "streamlit",
+      "PySide6"
+    ],
+    "erro_sintaxe": null
+  },
+  "python.py": {
+    "linguagem": "python",
+    "linhas": 333,
+    "classes": [],
+    "funcoes": [],
+    "imports_locais": [],
+    "imports_externos": [],
+    "erro_sintaxe": "SyntaxError L18: invalid syntax"
+  },
+  "README.md": {
+    "linguagem": "md",
+    "linhas": 3,
+    "classes": [],
+    "funcoes": [],
+    "imports_locais": [],
+    "imports_externos": [],
+    "erro_sintaxe": null
+  }
+}
